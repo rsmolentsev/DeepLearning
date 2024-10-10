@@ -1,0 +1,7 @@
+['resnet110', 'resnet1202', 'resnet20', 'resnet32', 'resnet44', 'resnet56']
+Files already downloaded and verified
+/usr/local/lib/python3.10/dist-packages/torch/utils/data/dataloader.py:557: UserWarning: This DataLoader will create 4 worker processes in total. Our suggested max number of worker in current system is 2, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+current lr 1.00000e-01
+Epoch: [0][0/391]	Time 1.713 (1.713)	Data 0.369 (0.369)	Loss 5.3909 (5.3909)	Prec@1 8.594 (8.594)
+Epoch: [0][50/391]	Time 0.091 (0.107)	Data 0.001 (0.010)	Loss 2.2771 (3.3121)	Prec@1 9.375 (10.478)
